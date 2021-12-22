@@ -619,6 +619,26 @@
       ]
     },
     {
+      "fullPath": "presets/4.3/osd/OSD-1-FullInfo -Standard.txt",
+      "hash": "a75146592ab22b0d7966bea0093a9d3b2d144b3ee7f8dc40c11d3d1015ea164b",
+      "options": [],
+      "title": "OSD-1-FullInfo -Standard",
+      "firmware_version": [
+        "4.3"
+      ],
+      "category": "OSD",
+      "status": "COMMUNITY",
+      "keywords": [
+        "defaults",
+        "custom",
+        "OSD"
+      ],
+      "author": "Dist0rtion/dev0xNull",
+      "description": [
+        "OSD-1-FullInfo -Standard"
+      ]
+    },
+    {
       "fullPath": "presets/4.3/osd/OSD-1-FullInfo.txt",
       "hash": "29875fb9bb0b857d3dda6e45e315a5d1d7e124a0994a07a533e17bc9f3adcfa4",
       "options": [],
