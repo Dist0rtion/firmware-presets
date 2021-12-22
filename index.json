@@ -117,6 +117,7 @@
     "author": [
       "Betaflight",
       "Dist0rtion/dev0xNull",
+      "Joshua Bardwell",
       "ctzsnooze",
       "sugarK"
     ],
@@ -128,6 +129,7 @@
       "DShot telemetry",
       "ELRS",
       "GPS",
+      "HD",
       "HD_freestyle",
       "HV",
       "IRC",
@@ -139,6 +141,7 @@
       "adjustments",
       "aggressive",
       "aux",
+      "bardwell",
       "basic",
       "betaflight",
       "blackbox",
@@ -159,7 +162,6 @@
       "freestyle",
       "freestyle_HD",
       "frsky",
-      "hd",
       "hot",
       "jitter",
       "launch",
@@ -207,7 +209,8 @@
       "very noisy",
       "vtx",
       "vtx table",
-      "vtxtable"
+      "vtxtable",
+      "youtube"
     ]
   },
   "presets": [
@@ -967,6 +970,62 @@
       "author": "Betaflight",
       "description": [
         "Resets the saved flight stats values back to zero"
+      ]
+    },
+    {
+      "fullPath": "presets/4.3/rates/1000deg-700deg_Freestyle.txt",
+      "hash": "d491eaede31d474c2a1ebeffd49b1cc3bc76a9c322c25a38d6319e552bb52df8",
+      "options": [],
+      "title": "1000deg-700deg_Freestyle",
+      "firmware_version": [
+        "4.3"
+      ],
+      "category": "RATES",
+      "status": "COMMUNITY",
+      "keywords": [
+        "freestyle",
+        "HD",
+        "cinematic"
+      ],
+      "author": "Dist0rtion/dev0xNull",
+      "description": [
+        "",
+        "Freestyle rates",
+        "1000 degrees/sec for roll and pitch, 700 - for yaw. Very smooth around the sticks middle."
+      ],
+      "include": [
+        "presets/4.3/rates/defaults.txt"
+      ]
+    },
+    {
+      "fullPath": "presets/4.3/rates/Bardwell.txt",
+      "hash": "a4d4bd89c8ef95a5b83260db0b994d6944a7869800fde39e8b473440855d78c8",
+      "options": [
+        {
+          "name": "Actual rates analogue",
+          "checked": false
+        }
+      ],
+      "title": "Joshua Bardwell rates",
+      "firmware_version": [
+        "4.3"
+      ],
+      "category": "RATES",
+      "status": "COMMUNITY",
+      "keywords": [
+        "youtube",
+        "bardwell",
+        "freestyle"
+      ],
+      "author": "Joshua Bardwell",
+      "description": [
+        "Freestyle rates with 907 deg/sec for roll/pitch and 800 deg/sec for yaw. Relatively smooth around the sticks middle.",
+        "I am Joshua Bardwell and you gonna learn something today!",
+        "Joshua Bardwell - one of the most famous YouTubers in FPV. From thorough gear reviews, to tons of videos about drone building and tuning, his videos have helped get many pilots into the air. People love him for his ability to give simple explanations for difficult and technical issues in FPV."
+      ],
+      "discussion": "https://github.com/betaflight/firmware-presets/pull/94",
+      "include": [
+        "presets/4.3/rates/defaults.txt"
       ]
     },
     {
