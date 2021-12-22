@@ -1,10 +1,10 @@
-#$ TITLE: OSD-2
+#$ TITLE: OSD-2-LightInfo
 #$ FIRMWARE_VERSION: 4.3
 #$ CATEGORY: OSD
-#$ STATUS: OFFICIAL
-#$ KEYWORDS: defaults, reset, OSD
-#$ AUTHOR: Betaflight
-#$ DESCRIPTION: Resets the OSD values back to Betaflight 4.3 defaults
+#$ STATUS: COMMUNITY
+#$ KEYWORDS: defaults, custom, OSD
+#$ AUTHOR: Dist0rtion/dev0xNull
+#$ DESCRIPTION: OSD-2-LightInfo
 
 set osd_units = METRIC
 set osd_warn_arming_disable = ON
