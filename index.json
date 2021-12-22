@@ -619,10 +619,39 @@
       ]
     },
     {
-      "fullPath": "presets/4.3/osd/OSD-1-FullInfo -Standard.txt",
-      "hash": "a75146592ab22b0d7966bea0093a9d3b2d144b3ee7f8dc40c11d3d1015ea164b",
+      "fullPath": "presets/4.3/osd/OSD-1-FullInfo [Standard].txt",
+      "hash": "ef869873199e77626b19f530a7e2e755e237ce7321e457886c452c02755062f5",
       "options": [],
-      "title": "OSD-1-FullInfo -Standard",
+      "title": "OSD-1-FullInfo [Standard]",
+      "firmware_version": [
+        "4.3"
+      ],
+      "category": "OSD",
+      "status": "COMMUNITY",
+      "keywords": [
+        "defaults",
+        "custom",
+        "OSD"
+      ],
+      "author": "Dist0rtion/dev0xNull",
+      "description": [
+        "OSD-1-FullInfo -Standard"
+      ]
+    },
+    {
+      "fullPath": "presets/4.3/osd/OSD-1-FullInfo [Template].txt",
+      "hash": "794dbd6e4c4f15a9c1d80093b5c563140df86a89ec59a20717b374979cb0ca53",
+      "options": [
+        {
+          "name": "Meteor65",
+          "checked": false
+        },
+        {
+          "name": "Alpha A65",
+          "checked": false
+        }
+      ],
+      "title": "OSD-1-FullInfo [Template]",
       "firmware_version": [
         "4.3"
       ],

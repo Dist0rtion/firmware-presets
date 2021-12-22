@@ -1,4 +1,4 @@
-#$ TITLE: OSD-1-FullInfo -Standard
+#$ TITLE: OSD-1-FullInfo [Standard]
 #$ FIRMWARE_VERSION: 4.3
 #$ CATEGORY: OSD
 #$ STATUS: COMMUNITY
