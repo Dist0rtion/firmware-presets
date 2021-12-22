@@ -116,6 +116,7 @@
     ],
     "author": [
       "Betaflight",
+      "Dist0rtion/dev0xNull",
       "ctzsnooze",
       "sugarK"
     ],
@@ -147,6 +148,7 @@
       "clean",
       "clear",
       "control",
+      "custom",
       "default",
       "defaults",
       "disable",
@@ -614,63 +616,123 @@
       ]
     },
     {
-      "fullPath": "presets/4.3/osd/OSD-1.txt",
-      "hash": "e756aaf8b6d9627f2161efa69dbf5d4b26e5ec1ee937beb123feaf666768367c",
+      "fullPath": "presets/4.3/osd/OSD-1-FullInfo.txt",
+      "hash": "29875fb9bb0b857d3dda6e45e315a5d1d7e124a0994a07a533e17bc9f3adcfa4",
       "options": [],
-      "title": "OSD-1",
+      "title": "OSD-1-FullInfo",
       "firmware_version": [
         "4.3"
       ],
       "category": "OSD",
-      "status": "OFFICIAL",
+      "status": "COMMUNITY",
       "keywords": [
         "defaults",
-        "reset",
+        "custom",
         "OSD"
       ],
-      "author": "Betaflight",
+      "author": "Dist0rtion/dev0xNull",
       "description": [
-        "Resets the OSD values back to Betaflight 4.3 defaults"
+        "OSD-1-FullInfo"
       ]
     },
     {
-      "fullPath": "presets/4.3/osd/OSD-2.txt",
-      "hash": "621a98fe3c270bbda3338f01198f29f08d018160f7c47ef229ccc64912b958fb",
+      "fullPath": "presets/4.3/osd/OSD-1-FullInfo[without Currentsensor].txt",
+      "hash": "5ec29d449a77dad92d04d1055e6b5b25a4524ee3c905c12e533e461a556f1985",
       "options": [],
-      "title": "OSD-2",
+      "title": "OSD-1-FullInfo[without Currentsensor]",
       "firmware_version": [
         "4.3"
       ],
       "category": "OSD",
-      "status": "OFFICIAL",
+      "status": "COMMUNITY",
       "keywords": [
         "defaults",
-        "reset",
+        "custom",
         "OSD"
       ],
-      "author": "Betaflight",
+      "author": "Dist0rtion/dev0xNull",
       "description": [
-        "Resets the OSD values back to Betaflight 4.3 defaults"
+        "OSD-1-FullInfo[without Currentsensor]"
       ]
     },
     {
-      "fullPath": "presets/4.3/osd/OSD-3.txt",
-      "hash": "261fd5edcd8a6d01e1175a004a243c236c8c2fb7b81eb740bcdf2e4a7a3836d6",
+      "fullPath": "presets/4.3/osd/OSD-2-LightInfo.txt",
+      "hash": "3e102ba29d6638911e42555e02948c18ced85da7d1d04eccfd3cb375a22c60e8",
       "options": [],
-      "title": "OSD-3",
+      "title": "OSD-2-LightInfo",
       "firmware_version": [
         "4.3"
       ],
       "category": "OSD",
-      "status": "OFFICIAL",
+      "status": "COMMUNITY",
       "keywords": [
         "defaults",
-        "reset",
+        "custom",
         "OSD"
       ],
-      "author": "Betaflight",
+      "author": "Dist0rtion/dev0xNull",
       "description": [
-        "Resets the OSD values back to Betaflight 4.3 defaults"
+        "OSD-2-LightInfo"
+      ]
+    },
+    {
+      "fullPath": "presets/4.3/osd/OSD-2-LightInfo[without Currentsensor].txt",
+      "hash": "80573e737a56cae157fafae14e17fab422a22537fd6264a4763492aea28183f5",
+      "options": [],
+      "title": "OSD-2-LightInfo[without Currentsensor]",
+      "firmware_version": [
+        "4.3"
+      ],
+      "category": "OSD",
+      "status": "COMMUNITY",
+      "keywords": [
+        "defaults",
+        "custom",
+        "OSD"
+      ],
+      "author": "Dist0rtion/dev0xNull",
+      "description": [
+        "OSD-2-LightInfo[without Currentsensor]"
+      ]
+    },
+    {
+      "fullPath": "presets/4.3/osd/OSD-3-MediumInfo.txt",
+      "hash": "14e06db736acfbc6e158dde7dbab1fd6a65f7065ea25afa5dae9e3e5b95aa0b1",
+      "options": [],
+      "title": "OSD-3-MediumInfo",
+      "firmware_version": [
+        "4.3"
+      ],
+      "category": "OSD",
+      "status": "COMMUNITY",
+      "keywords": [
+        "defaults",
+        "custom",
+        "OSD"
+      ],
+      "author": "Dist0rtion/dev0xNull",
+      "description": [
+        "OSD-3-MediumInfo"
+      ]
+    },
+    {
+      "fullPath": "presets/4.3/osd/OSD-3-MediumInfo[without Currentsensor].txt",
+      "hash": "dfed7b6c575fa9328dc014de1864712293b3e49ca258e5ce1154cb89d33e2bf8",
+      "options": [],
+      "title": "OSD-3-MediumInfo[without Currentsensor]",
+      "firmware_version": [
+        "4.3"
+      ],
+      "category": "OSD",
+      "status": "COMMUNITY",
+      "keywords": [
+        "defaults",
+        "custom",
+        "OSD"
+      ],
+      "author": "Dist0rtion/dev0xNull",
+      "description": [
+        "OSD-3-MediumInfo[without Currentsensor]"
       ]
     },
     {
