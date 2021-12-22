@@ -1,4 +1,4 @@
-#$ TITLE: Default 4.3 OSD settings
+#$ TITLE: OSD-3
 #$ FIRMWARE_VERSION: 4.3
 #$ CATEGORY: OSD
 #$ STATUS: OFFICIAL
