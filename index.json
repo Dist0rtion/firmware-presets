@@ -615,9 +615,9 @@
     },
     {
       "fullPath": "presets/4.3/osd/OSD-1.txt",
-      "hash": "678b47f6387b4728d81df47685778882f34bf1afa1b321ce7193e34d351d6927",
+      "hash": "e756aaf8b6d9627f2161efa69dbf5d4b26e5ec1ee937beb123feaf666768367c",
       "options": [],
-      "title": "Default 4.3 OSD settings",
+      "title": "OSD-1",
       "firmware_version": [
         "4.3"
       ],
@@ -635,9 +635,9 @@
     },
     {
       "fullPath": "presets/4.3/osd/OSD-2.txt",
-      "hash": "678b47f6387b4728d81df47685778882f34bf1afa1b321ce7193e34d351d6927",
+      "hash": "621a98fe3c270bbda3338f01198f29f08d018160f7c47ef229ccc64912b958fb",
       "options": [],
-      "title": "Default 4.3 OSD settings",
+      "title": "OSD-2",
       "firmware_version": [
         "4.3"
       ],
@@ -655,9 +655,9 @@
     },
     {
       "fullPath": "presets/4.3/osd/OSD-3.txt",
-      "hash": "678b47f6387b4728d81df47685778882f34bf1afa1b321ce7193e34d351d6927",
+      "hash": "261fd5edcd8a6d01e1175a004a243c236c8c2fb7b81eb740bcdf2e4a7a3836d6",
       "options": [],
-      "title": "Default 4.3 OSD settings",
+      "title": "OSD-3",
       "firmware_version": [
         "4.3"
       ],
