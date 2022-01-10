@@ -1509,25 +1509,8 @@
     },
     {
       "fullPath": "presets/4.3/tune/AlphaA65.txt",
-      "hash": "b1621cfe27d9c4f3bebf729fe8e147ed5d1342e7551c8ce6edb54e32e7bcdbf0",
-      "options": [
-        {
-          "name": "FILTER: RPM enabled, normal build",
-          "checked": false
-        },
-        {
-          "name": "FILTER: RPM enabled, noisy build",
-          "checked": false
-        },
-        {
-          "name": "FILTER: NON-RPM ESCs, normal build",
-          "checked": false
-        },
-        {
-          "name": "Normal tune (normal builds)",
-          "checked": false
-        }
-      ],
+      "hash": "f40e3635f12cb13972adb88e5a002061a6d2ed218c54038cba377509e15bc570",
+      "options": [],
       "title": "Alpha A65 Personal Tune",
       "firmware_version": [
         "4.3"
@@ -1551,12 +1534,6 @@
         "",
         "DESCRIPTION 1",
         "DESCRIPTION 2"
-      ],
-      "include": [
-        "presets/4.3/tune/defaults.txt",
-        "presets/4.3/filters/default_rpm_normal.txt",
-        "presets/4.3/filters/default_rpm_noisy.txt",
-        "presets/4.3/filters/default_no_rpm_normal.txt"
       ]
     },
     {
@@ -1587,25 +1564,8 @@
     },
     {
       "fullPath": "presets/4.3/tune/Meteor65.txt",
-      "hash": "8e4aa1e3473060d45d341346611766a4dcf2b63bf7980df148af6ab80d67f3a3",
-      "options": [
-        {
-          "name": "FILTER: RPM enabled, normal build",
-          "checked": false
-        },
-        {
-          "name": "FILTER: RPM enabled, noisy build",
-          "checked": false
-        },
-        {
-          "name": "FILTER: NON-RPM ESCs, normal build",
-          "checked": false
-        },
-        {
-          "name": "Normal tune (normal builds)",
-          "checked": false
-        }
-      ],
+      "hash": "aae0c30ddba669fd03619fd7958decb33ac49056cfbd5f94160282146c8b3baa",
+      "options": [],
       "title": "Meteor65 Personal Tune",
       "firmware_version": [
         "4.3"
@@ -1629,12 +1589,6 @@
         "",
         "DESCRIPTION 1",
         "DESCRIPTION 2"
-      ],
-      "include": [
-        "presets/4.3/tune/defaults.txt",
-        "presets/4.3/filters/default_rpm_normal.txt",
-        "presets/4.3/filters/default_rpm_noisy.txt",
-        "presets/4.3/filters/default_no_rpm_normal.txt"
       ]
     },
     {
