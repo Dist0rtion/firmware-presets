@@ -4,8 +4,6 @@
 #$ STATUS: EXPERIMENTAL
 #$ KEYWORDS: whoop, 65mm, 1S, race, acro, tune, meteor, alpha
 #$ AUTHOR: Dist0rtion_/dev0xNull
-#$ DISCUSSION: https://github.com/betaflight/firmware-presets/pull/142
-#$ DESCRIPTION: Hot 65mm whoop tune for racing
 #$ DESCRIPTION:
 #$ DESCRIPTION: DESCRIPTION 1
 #$ DESCRIPTION: DESCRIPTION 2
