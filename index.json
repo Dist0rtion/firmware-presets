@@ -117,15 +117,18 @@
     "author": [
       "Betaflight",
       "Dist0rtion/dev0xNull",
+      "Dist0rtion_/dev0xNull",
       "Joshua Bardwell",
       "ctzsnooze",
       "sugarK"
     ],
     "keywords": [
       "150hz",
+      "1S",
       "250hz",
       "500hz",
       "50hz",
+      "65mm",
       "DShot telemetry",
       "ELRS",
       "GPS",
@@ -137,9 +140,11 @@
       "SA 2.0",
       "SA 2.0 lite",
       "SA 2.1",
+      "acro",
       "actual",
       "adjustments",
       "aggressive",
+      "alpha",
       "aux",
       "bardwell",
       "basic",
@@ -170,6 +175,7 @@
       "link",
       "log",
       "logging",
+      "meteor",
       "mode",
       "modes",
       "names",
@@ -210,6 +216,7 @@
       "vtx",
       "vtx table",
       "vtxtable",
+      "whoop",
       "youtube"
     ]
   },
@@ -1023,7 +1030,7 @@
     },
     {
       "fullPath": "presets/4.3/rates/1000deg-700deg_Freestyle.txt",
-      "hash": "d491eaede31d474c2a1ebeffd49b1cc3bc76a9c322c25a38d6319e552bb52df8",
+      "hash": "9d47d53691be0c683f754750250ef4a8595aa15246d7674706c748764ba7f574",
       "options": [],
       "title": "1000deg-700deg_Freestyle",
       "firmware_version": [
@@ -1501,6 +1508,58 @@
       ]
     },
     {
+      "fullPath": "presets/4.3/tune/AlphaA65.txt",
+      "hash": "b1621cfe27d9c4f3bebf729fe8e147ed5d1342e7551c8ce6edb54e32e7bcdbf0",
+      "options": [
+        {
+          "name": "FILTER: RPM enabled, normal build",
+          "checked": false
+        },
+        {
+          "name": "FILTER: RPM enabled, noisy build",
+          "checked": false
+        },
+        {
+          "name": "FILTER: NON-RPM ESCs, normal build",
+          "checked": false
+        },
+        {
+          "name": "Normal tune (normal builds)",
+          "checked": false
+        }
+      ],
+      "title": "Alpha A65 Personal Tune",
+      "firmware_version": [
+        "4.3"
+      ],
+      "category": "TUNE",
+      "status": "EXPERIMENTAL",
+      "keywords": [
+        "whoop",
+        "65mm",
+        "1S",
+        "race",
+        "acro",
+        "tune",
+        "meteor",
+        "alpha"
+      ],
+      "author": "Dist0rtion_/dev0xNull",
+      "discussion": "https://github.com/betaflight/firmware-presets/pull/142",
+      "description": [
+        "Hot 65mm whoop tune for racing",
+        "",
+        "DESCRIPTION 1",
+        "DESCRIPTION 2"
+      ],
+      "include": [
+        "presets/4.3/tune/defaults.txt",
+        "presets/4.3/filters/default_rpm_normal.txt",
+        "presets/4.3/filters/default_rpm_noisy.txt",
+        "presets/4.3/filters/default_no_rpm_normal.txt"
+      ]
+    },
+    {
       "fullPath": "presets/4.3/tune/defaults.txt",
       "hash": "d2e44998e10403e30714b5b24bf48689694842f6e2f93a8caf3785e71ff19002",
       "options": [],
@@ -1524,6 +1583,58 @@
         "WARNING: Overwrites all settings mentioned below to defaults.  The User cannot retain their previous values.",
         "WARNING: Tune authors must explicitly set these values to something other than default, if needed for the tune.",
         "DOES NOT reset rates, filters, rc_smoothing, and many other parameters."
+      ]
+    },
+    {
+      "fullPath": "presets/4.3/tune/Meteor65.txt",
+      "hash": "8e4aa1e3473060d45d341346611766a4dcf2b63bf7980df148af6ab80d67f3a3",
+      "options": [
+        {
+          "name": "FILTER: RPM enabled, normal build",
+          "checked": false
+        },
+        {
+          "name": "FILTER: RPM enabled, noisy build",
+          "checked": false
+        },
+        {
+          "name": "FILTER: NON-RPM ESCs, normal build",
+          "checked": false
+        },
+        {
+          "name": "Normal tune (normal builds)",
+          "checked": false
+        }
+      ],
+      "title": "Meteor65 Personal Tune",
+      "firmware_version": [
+        "4.3"
+      ],
+      "category": "TUNE",
+      "status": "EXPERIMENTAL",
+      "keywords": [
+        "whoop",
+        "65mm",
+        "1S",
+        "race",
+        "acro",
+        "tune",
+        "meteor",
+        "alpha"
+      ],
+      "author": "Dist0rtion_/dev0xNull",
+      "discussion": "https://github.com/betaflight/firmware-presets/pull/142",
+      "description": [
+        "Hot 65mm whoop tune for racing",
+        "",
+        "DESCRIPTION 1",
+        "DESCRIPTION 2"
+      ],
+      "include": [
+        "presets/4.3/tune/defaults.txt",
+        "presets/4.3/filters/default_rpm_normal.txt",
+        "presets/4.3/filters/default_rpm_noisy.txt",
+        "presets/4.3/filters/default_no_rpm_normal.txt"
       ]
     },
     {
