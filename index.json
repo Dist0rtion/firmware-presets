@@ -118,7 +118,6 @@
       "Betaflight",
       "Dist0rtion/dev0xNull",
       "Dist0rtion_ / dev0xNull",
-      "Dist0rtion_/dev0xNull",
       "Joshua Bardwell",
       "ctzsnooze",
       "sugarK"
@@ -150,6 +149,7 @@
       "bardwell",
       "basic",
       "betaflight",
+      "betafpv",
       "blackbox",
       "camera",
       "camera_control",
@@ -160,6 +160,7 @@
       "custom",
       "default",
       "defaults",
+      "diatone",
       "disable",
       "expert",
       "filter",
@@ -169,6 +170,7 @@
       "freestyle_HD",
       "frsky",
       "hot",
+      "iflight",
       "jitter",
       "launch",
       "launch_mode",
@@ -197,6 +199,7 @@
       "rc_smoothing",
       "reset",
       "reset statistics",
+      "roma f1",
       "rpm",
       "sbus",
       "smooth",
@@ -1510,7 +1513,7 @@
     },
     {
       "fullPath": "presets/4.3/tune/AlphaA65.txt",
-      "hash": "3ea2f49adf7e383f3c4a0d4d5174a4dda40b25cdd307cbe3a5bef249a822e4c3",
+      "hash": "b6d5a8e94e515741da1147ff5713aae39578223b1b0fe58eef7b9d4c84bb1cd3",
       "options": [],
       "title": "Alpha A65 Personal Tune",
       "firmware_version": [
@@ -1525,14 +1528,14 @@
         "race",
         "acro",
         "tune",
-        "meteor",
+        "iflight",
         "alpha"
       ],
       "author": "Dist0rtion_ / dev0xNull",
       "description": [
         "Betaflight 4.3.x Tune for the iFlight Alpha A65 [Personal Tune]",
-        "DESCRIPTION 1",
-        "DESCRIPTION 2"
+        "RTF Settings",
+        "Pick and Reboot - All settings should be fine for a good flight"
       ]
     },
     {
@@ -1563,7 +1566,7 @@
     },
     {
       "fullPath": "presets/4.3/tune/Meteor65.txt",
-      "hash": "43791df513bd3816b2e7e750db86895a4f6b2aaaa4fad2f6ef0d3797d9ad6e2a",
+      "hash": "362541aeeeae6dec13ac1ec04c4e927cf6c768db9e641695c44ecc70b9e52c0f",
       "options": [],
       "title": "Meteor65 Personal Tune",
       "firmware_version": [
@@ -1579,13 +1582,13 @@
         "acro",
         "tune",
         "meteor",
-        "alpha"
+        "betafpv"
       ],
-      "author": "Dist0rtion_/dev0xNull",
+      "author": "Dist0rtion_ / dev0xNull",
       "description": [
-        "",
-        "DESCRIPTION 1",
-        "DESCRIPTION 2"
+        "Betaflight 4.3.x Tune for the BetaFPV Meteor65 [Personal Tune]",
+        "RTF Settings",
+        "Pick and Reboot - All settings should be fine for a good flight"
       ]
     },
     {
@@ -1956,6 +1959,29 @@
       "description": [
         "Check the tune parameters that you want to reset to defaults.",
         "Un-checked parameters will remain at current values."
+      ]
+    },
+    {
+      "fullPath": "presets/4.3/tune/RomaF1.txt",
+      "hash": "9227ca4160bc231a8063c0aaa773d5bdb44c170af442d21fea6f86c3ab6e8209",
+      "options": [],
+      "title": "Meteor65 Personal Tune",
+      "firmware_version": [
+        "4.3"
+      ],
+      "category": "TUNE",
+      "status": "EXPERIMENTAL",
+      "keywords": [
+        "whoop",
+        "tune",
+        "roma f1",
+        "diatone"
+      ],
+      "author": "Dist0rtion_ / dev0xNull",
+      "description": [
+        "Betaflight 4.3.x Tune for the Diatone Roma F1 [Personal Tune]",
+        "RTF Settings",
+        "Pick and Reboot - All settings should be fine for a good flight"
       ]
     },
     {
