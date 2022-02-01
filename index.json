@@ -117,6 +117,7 @@
     "author": [
       "Betaflight",
       "Dist0rtion/dev0xNull",
+      "Dist0rtion_ / dev0xNull",
       "Dist0rtion_/dev0xNull",
       "Joshua Bardwell",
       "ctzsnooze",
@@ -1509,7 +1510,7 @@
     },
     {
       "fullPath": "presets/4.3/tune/AlphaA65.txt",
-      "hash": "3c3546e24cb31631be1be43c055659f4d444ef9b198703b30c52bf7f27b07eef",
+      "hash": "3ea2f49adf7e383f3c4a0d4d5174a4dda40b25cdd307cbe3a5bef249a822e4c3",
       "options": [],
       "title": "Alpha A65 Personal Tune",
       "firmware_version": [
@@ -1527,9 +1528,9 @@
         "meteor",
         "alpha"
       ],
-      "author": "Dist0rtion_/dev0xNull",
+      "author": "Dist0rtion_ / dev0xNull",
       "description": [
-        "",
+        "Betaflight 4.3.x Tune for the iFlight Alpha A65 [Personal Tune]",
         "DESCRIPTION 1",
         "DESCRIPTION 2"
       ]
