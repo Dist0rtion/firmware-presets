@@ -1566,7 +1566,7 @@
     },
     {
       "fullPath": "presets/4.3/tune/Meteor65.txt",
-      "hash": "362541aeeeae6dec13ac1ec04c4e927cf6c768db9e641695c44ecc70b9e52c0f",
+      "hash": "042c2085a2876c2aaf52d9e2a3ab2774a8169bd2cb65bb3a7d7c40b7e4b091dd",
       "options": [],
       "title": "Meteor65 Personal Tune",
       "firmware_version": [
@@ -1963,9 +1963,9 @@
     },
     {
       "fullPath": "presets/4.3/tune/RomaF1.txt",
-      "hash": "9227ca4160bc231a8063c0aaa773d5bdb44c170af442d21fea6f86c3ab6e8209",
+      "hash": "d8bbd1953a6aafee87ad13b00923059bb44519b1d38fb7569813aaac99216fea",
       "options": [],
-      "title": "Meteor65 Personal Tune",
+      "title": "Roma F1 Personal Tune",
       "firmware_version": [
         "4.3"
       ],
